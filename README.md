@@ -90,6 +90,18 @@ All KPIs dynamically update based on slicer selections.
 
 ---
 
+## 🖼 Dashboard Screenshots
+
+### 📊 Delivery SLA Dashboard Overview
+![Dashboard Overview](screenshots/dashboard_overview.png)
+
+### 🚚 Top vs Bottom Driver Performance
+![Top Bottom Drivers](screenshots/top_bottom_drivers.png)
+
+### 🏢 Delivery Partner Comparison (ABC vs XYZ)
+![Partner Comparison](screenshots/partner_comparison.png)
+
+
 ## 🎛 Interactivity
 
 The dashboard is fully interactive using slicers:
@@ -137,7 +149,9 @@ No Power BI, SQL, or Python was used — this project demonstrates **advanced Ex
 │   └── AmazonLogistics_ScheduledDelivery_Performance.xlsx
 │
 ├── screenshots/
-│   └── dashboard.png
+│   ├── dashboard_overview.png
+│   ├── top_bottom_drivers.png
+│   └── partner_comparison.png
 │
 └── README.md
 ```
